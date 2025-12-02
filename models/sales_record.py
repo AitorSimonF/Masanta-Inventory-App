@@ -1,0 +1,1 @@
+# Normalized sales record class

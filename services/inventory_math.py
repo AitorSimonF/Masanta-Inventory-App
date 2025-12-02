@@ -1,0 +1,1 @@
+# Pure math: averages, projections, conversions

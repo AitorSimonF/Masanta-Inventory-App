@@ -1,0 +1,31 @@
+This is just a list of packages your app depends on.
+
+Example:
+
+python-quickbooks → to pull data from QuickBooks
+
+pandas, numpy → forecasting / manipulation
+
+sqlalchemy → storing inventory in a local database
+
+# Quickbooks API
+intuit-oauth == 1.2.4
+python-quickbooks == 0.9.5
+
+# Data handling
+pandas == 2.1.4
+numpy == 1.26.2
+
+# Database
+sqlalchemy == 2.0.23
+
+# Environment variables
+python-dontev == 1.0.0
+
+# Testing
+pytest == 7.4.3
+pytest-mock == 3.12.0
+
+# Optional: API framework for future web interface
+flask == 3.0.0
+fastapi == 0.104.1

@@ -1,0 +1,6 @@
+# Ignore the real .env file
+.env
+.DS_Store
+
+# Do NOT ignore the template
+!.env.example
